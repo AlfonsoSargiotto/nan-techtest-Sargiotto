@@ -38,9 +38,9 @@ The test consisted in a small API with the objective to create new cards in Trel
 
         
   - Keys explanation:
-     -Title: The name of the card.
-     -Description: Short description of the card. 
-     -Type: The type of card. It will set a label (task, issue, bug). Required key. Can be Null
-     -Category: This indicates the list where the card will be appended. Required key.Can be Null
+    - Title: The name of the card.
+    - Description: Short description of the card. 
+    - Type: The type of card. It will set a label (task, issue, bug). Required key. Can  be Null.
+    - Category: This indicates the list where the card will be appended. Required key.Can be Null.
 
 
