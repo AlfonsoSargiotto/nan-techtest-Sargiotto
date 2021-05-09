@@ -1,8 +1,8 @@
 # nanlabs-techtest
-Repository intended to develop the NaNLABS technical test. (Only for demo porpuses)
+Repository intended to develop a technical test for a company. (Only for demo porpuses)
 
 ## Short description
-The test consisted in a small API with the objective to create new cards in Trello trough its API.
+The test consisted in a small API with the objective to create new cards in Trello through its API.
 
 ## Requirements
  - **Python** 3.8.0+
